@@ -48,10 +48,6 @@ Current functionality includes:
 - Load/Update data asynchronously using Firebase
 - Payments with Stripe (Testing Mode)
 
-## Known Bugs
-
-Feel free to email me at lakshman.gope2@gmail.com if you run into any issues or have questions, ideas or concerns. Please enjoy
-and feel free to share your opinion, constructive criticism, or comments about my work. Thank you! 🙂
 
 ## Future Updates
 
@@ -62,7 +58,3 @@ and feel free to share your opinion, constructive criticism, or comments about m
 - Recently Viewed Products
 
 And More ! There's always room for improvement!
-
-## Deployed Version
-
-Feel free to visit 👉 https://lakshman-fashion-clothing.herokuapp.com/
